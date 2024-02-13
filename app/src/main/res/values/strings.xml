@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="articles_will_appear_here">Articles will appear here</string>
+</resources>
